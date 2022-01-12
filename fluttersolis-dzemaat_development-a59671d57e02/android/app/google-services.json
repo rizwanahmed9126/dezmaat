@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "925481981142",
+    "firebase_url": "https://dzemaat-3d441j.firebaseio.com",
+    "project_id": "dzemaat-3d441j",
+    "storage_bucket": "dzemaat-3d441j.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925481981142:android:3f5b26a12475a0878de577",
+        "android_client_info": {
+          "package_name": "com.islamic.dzemaat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925481981142-hfu738bs3gngedujao26m2s9uo1lud76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs-OZGo4qOut2QUKbGXJ4GPdaaXYUSgIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925481981142-hfu738bs3gngedujao26m2s9uo1lud76.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925481981142-8qs517ctt9tafgsglal3v8uh67oso9if.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.islamic.dzemaat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
